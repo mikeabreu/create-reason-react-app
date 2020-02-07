@@ -1,18 +1,14 @@
 {
-  "name": "react-scripts",
+  "name": "react-scripts-for-react-native-web",
   "version": "3.3.1",
   "description": "Configuration and scripts for Create React App.",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
-    "directory": "packages/react-scripts"
-  },
+  "repository": "mikeabreu/create-reason-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/mikeabreu/create-reason-react-app/issues"
   },
   "files": [
     "bin",
